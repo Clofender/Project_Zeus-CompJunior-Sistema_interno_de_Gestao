@@ -46,7 +46,7 @@ O objetivo é demonstrar habilidades na construção de interfaces de usuário r
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/SEU_USUARIO/NOME_DO_SEU_REPOSITORIO.git
+    git clone https://github.com/Clofender/Project_Zeus-CompJunior-Sistema_interno_de_Gestao.git
     cd Project_Zeus-CompJunior-Sistema_interno_de_Gestao
     ```
 
